@@ -148,7 +148,7 @@ li {
   text-indent: -0.7em;
 }
 li:before {
-  content: "• ";
+  content: "// ";
   color: #837c9a;
   font-size: 20px;
   padding-right: 8px;
